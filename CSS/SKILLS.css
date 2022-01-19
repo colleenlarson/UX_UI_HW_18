@@ -1,0 +1,98 @@
+/* Text */
+h1, h2, h3 , h4, h5, h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  /* General */
+  .customNav {
+    position: fixed;
+    width: 100%;
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: small size;
+    z-index: 10;
+  }
+  .navbar-nav {
+    margin-left: 10%;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 15px;
+  }
+  .nav-item {
+    margin: 50px 30px;
+  }
+  /* Navigation links */
+  .customNav a {
+    color: white !important;
+  }
+  .navCTA {
+    font-size: 18px;
+  }
+  /* Jumbotron  */
+  .jumbotron {
+    background-image: light rgb(121, 121, 168);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 100px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+  }
+  /* Jumbotron copy */
+  .jumboCopy {
+    width: 90%;
+    min-width: 500px;
+    max-width: 700px;
+    color: white;
+    text-align: justify;
+  }
+  
+  /* Jumbotron  */
+  .jumbotron {
+    background-image: light rgb(121, 121, 168);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 100px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+  }
+  
+  /* Cards */
+  .content {
+    padding: 50px;
+  }
+  .sectionHeading {
+    text-align: center;
+  }
+  .showsNear  {
+    padding: 0px 60px 60px 60px;
+  }
+  .cardContainer {
+    text-align: center;
+  }
+  
+  /* Content */
+  .sideAccent {
+    background: #eaedf3;
+    width: 15px;
+  }
+  .imageContainer img {
+    width: 100%;
+  }
+  .imageContainer {
+    padding: 30px;
+  }
+  .valueProp {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
