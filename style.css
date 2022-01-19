@@ -115,3 +115,16 @@ footer {
 .card {
   margin: 0 auto;
 }
+ 
+@media only screen and (max-width: 768px) { 
+
+   .emailContain { 
+     margin-left: 45px;
+   } 
+
+} 
+
+
+@media only screen and (max-width: 510px) { 
+
+}
