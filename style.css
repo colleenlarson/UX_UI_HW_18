@@ -10,7 +10,7 @@ p {
 .customNav {
   position: fixed;
   width: 100%;
-  background: url("../images/transparency.png");
+  background: url("./FolderImages/DriedFloralhome.png");
   background-color: transparent !important;
   background-size: small size;
   z-index: 10;
@@ -114,17 +114,4 @@ footer {
 }
 .card {
   margin: 0 auto;
-}
- 
-@media only screen and (max-width: 768px) { 
-
-   .emailContain { 
-     margin-left: 45px;
-   } 
-
-} 
-
-
-@media only screen and (max-width: 510px) { 
-
 }
